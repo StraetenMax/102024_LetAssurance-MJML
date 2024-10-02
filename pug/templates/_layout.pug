@@ -1,0 +1,43 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Lettre Assurance Étudiant Octobre 2024
+        mj-raw.
+            <meta name='color-scheme' content='light'/>
+            <meta name='supported-color-schemes' content='light'/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            mj-text(font-size='16px' font-weight='300' line-height='20px' color="#2D3748")
+        mj-breakpoint(width='480px')
+    //- Body
+    mj-body(background-color='#fcfcfc')
+        //- Partenaire ESA
+            block esa
+            include ../includes/_esa
+        //- Header
+        block header
+        //- Dossier
+            block dossier
+            include ../includes/_dossier.pug
+        //- Article_2
+            block article_2
+            include ../includes/_article2
+        //- Agenda
+            block agenda
+                include ../includes/_agenda
+        //- Article_1
+            block article_1
+            include ../includes/_article1
+        //- Article_3
+            block article_3
+            include ../includes/_article3
+        //- Ordinateur
+            block ordinateur
+            include ../includes/_ordi.pug
+        //- footer Post
+            block footer
+            include ../includes/_footer
