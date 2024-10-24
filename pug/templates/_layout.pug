@@ -11,18 +11,17 @@ mjml
             <meta name="format-detection" content="email=no"/>
         mj-attributes
             mj-all(font-family='Arial, Helvetica, sans-serif')/
-            mj-text(font-size='16px' font-weight='300' line-height='20px' color="#2D3748")
         mj-breakpoint(width='480px')
     //- Body
     mj-body(background-color='#fcfcfc')
         //- Partenaire ESA
-            block esa
+        block esa
             include ../includes/_esa
         //- Header
         block header
         //- Dossier
-            block dossier
-            include ../includes/_dossier.pug
+        block edito
+            include ../includes/_edito.pug
         //- Article_2
             block article_2
             include ../includes/_article2
@@ -39,5 +38,5 @@ mjml
             block ordinateur
             include ../includes/_ordi.pug
         //- footer Post
-            block footer
+        block footer
             include ../includes/_footer

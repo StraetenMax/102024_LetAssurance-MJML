@@ -12,11 +12,20 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif"/>
-      <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748"></mj-text>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#fcfcfc">
+    <mj-section background-color="#270938" padding="0">
+      <mj-group width="480px">
+        <mj-column width="20%" padding-top="8px" padding-bottom="8px" padding-right="8px" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
+        </mj-column>
+        <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px" vertical-align="middle">
+          <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <span style="font-style:italic">(École Supérieure d'Assurance)</span></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
     <mj-section background-color="#EDF2F7" padding-bottom="0">
       <mj-group width="92%"> 
         <mj-column width="60%" padding="10px">
@@ -40,6 +49,34 @@
     <mj-section background-color="#EDF2F7" padding="0">
       <mj-column width="92%" padding="10px">
         <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Octobre 2024        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/4ZGNgwb/Bandeau092024.jpg" alt="Groupe d'étudiants entrain de discuter avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
+      <mj-column width="88%"> 
+        <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Chers élèves, chers parents,</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Cette rentrée 2024 est une grande réussite pour <span style="font-weight:700;">EcoSup Assurance</span> et <span style="font-weight:700;">EcoSup Campus</span>. De nouvelles promotions prêtent à relever les défis, à vivre l'aventure de l'alternance et à grandir durant les mois à venir.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Les former, les accompagner, les voir s'accomplir... est notre métier, mais également notre passion. <span style="font-weight:700;">L'élève au centre de notre démarche !</span></mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Nous sommes heureux et fiers d'accueillir cette nouvelle génération d'élève. Beaucoup d'entre eux ont trouvé leur contrat d'apprentissage, mais certains sont encore en recherche. <span style="font-weight:700;">Vous pouvez les aider ! comment ? En en parlant et en étant à l'écoute des opportunités !</span></mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Je vous souhaite à vous tous une très bonne rentrée 2024 et je me tiens à votre disposition pour vous rencontrer !</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Bien à vous.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#270938" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc" href="tel:0320700606">Tél 03.20.70.06.06</a>                </mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-weight:300" href="{{ mirror }}">ici</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-weight:300;" href="{{ unsubscribe}}">ici</a>.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
