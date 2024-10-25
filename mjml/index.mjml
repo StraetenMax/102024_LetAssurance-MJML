@@ -84,8 +84,8 @@
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
         <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Baromètre annuel 2024 de l'alternance</mj-text>
-        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Le <span style="font-weight:700">Groupe IGENSIA Education</span> dévoile les résultats de son <span style="font-weight:700">baromètre annuel 2024</span>, révélant une tendance positive en faveur de l'alternance en France.</mj-text>
-        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Réalisé en partenariat avec <span style="font-weight:700">Angie / Opinion Data Intelligence</span>, ce baromètre repose sur une étude d'opinion menée auprès de 1 528 répondants représentatifs de la population française.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Le <span style="font-weight:700">Groupe IGENSIA Education</span> dévoile les résultats de son <span style="font-weight:700">baromètre annuel 2024</span>, révélant une tendance positive en faveur de l'alternance en France.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Réalisé en partenariat avec <span style="font-weight:700">Angie / Opinion Data Intelligence</span>, ce baromètre repose sur une étude d'opinion menée auprès de 1 528 répondants représentatifs de la population française.</mj-text>
         <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/recruter-apprenti" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">À télécharger...</a></mj-text>
       </mj-column>
     </mj-section>
@@ -161,10 +161,10 @@
       <mj-column width="70%" padding="8px">
         <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
         <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Business Network International (BNI) : un atout majeur pour EcoSup Campus!</mj-text>
-        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Notre école est fière de faire partie du <span style="font-weight:700">groupe BNI Culture Business</span>. Avec plus de 20 000 membres en France, Belgique et Luxembourg, <span style="font-weight:700">BNI</span> est un réseau d'affaires incontournable. Cette adhésion nous offre une opportunité unique de :</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Rayonner localement :</span> Rencontrer de nombreux acteurs économiques de notre région.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Développer des partenariats solides :</span> Favoriser les échanges et les collaborations avec des entreprises.</mj-text>
-        <mj-text padding-top="0" padding-bottom="5px" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Ouvrir de nouvelles perspectives à nos étudiants :</span> Les mettre en relation avec de futurs employeurs.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Notre école est fière de faire partie du <span style="font-weight:700">groupe BNI Culture Business</span>. Avec plus de 20 000 membres en France, Belgique et Luxembourg, <span style="font-weight:700">BNI</span> est un réseau d'affaires incontournable. Cette adhésion nous offre une opportunité unique de :</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"><span style="font-weight:700">• Rayonner localement :</span> Rencontrer de nombreux acteurs économiques de notre région.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"><span style="font-weight:700">• Développer des partenariats solides :</span> Favoriser les échanges et les collaborations avec des entreprises.</mj-text>
+        <mj-text padding-top="0" padding-bottom="5px" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"><span style="font-weight:700">• Ouvrir de nouvelles perspectives à nos étudiants :</span> Les mettre en relation avec de futurs employeurs.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#cad9e7" padding-left="17px" padding-right="17px">
@@ -172,12 +172,14 @@
         <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/gS8y4Rf/112024-A7-Assurance.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
-        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Journée Portes Ouvertes</mj-text>
-        <mj-social align="left" padding="0" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
-          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Samedi 23 novembre de 9h30 à 13h</span></mj-social-element>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">BNI : Réunion spéciale invités</mj-text>
+        <mj-social align="left" padding="0" font-size="20px" line-height="24px" font-weight="600" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#2D3748">Jeudi 14 novembre de 7h15 à 9h</span></mj-social-element>
         </mj-social>
-        <mj-text align="left" padding="0" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à vous familiariser avec votre futur univers.</mj-text>
+        <mj-text align="left" padding-top="0" padding-bottom="5px" padding-left="0" padding-right="0" font-size="16px" line-height="20px" font-weight="500" color="#2D3748">Les <span style="font-weight:700">réunions spéciales avec des invités</span> au programme sont une occasion pour élargir votre réseau professionnel.</mj-text>
+        <mj-text align="left" padding="5px 0" font-size="16px" line-height="20px" font-weight="500" color="#2D3748">Imaginez un événement où chaque poignée de main est une <span style="font-weight:700">nouvelle opportunité de business</span>, chaque conversation un <span style="font-weight:700">speed meeting potentiel</span>, et chaque échange un pas vers de <span style="font-weight:700">nouvelles rencontres enrichissantes</span>.</mj-text>
+        <mj-text align="left" padding="5px 0" font-size="16px" line-height="20px" font-weight="500" color="#2D3748">C'est l'essence même des <span style="font-weight:700">Speed Business Meetings</span>, où en peu de temps, vous pouvez rencontrer une multitude de professionnels, partager vos expériences et peut-être même, <span style="font-weight:700">nouer des partenariats durables</span>.</mj-text>
         <mj-text align="right" padding="0" font-size="16px" line-height="20px" font-weight="400"><a style="color:#BA4995;font-weight:600;" target="_blank" href="https://ecosup-assurance.fr/ecole-assurance-lille/#jpo2023">Inscription sur le site web</a></mj-text>
       </mj-column>
     </mj-section>
@@ -187,7 +189,7 @@
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
-        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Journée Portes Ouvertes</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Ecosup : Journée Portes Ouvertes</mj-text>
         <mj-social align="left" padding="0" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Samedi 23 novembre de 9h30 à 13h</span></mj-social-element>
         </mj-social>
