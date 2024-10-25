@@ -59,12 +59,11 @@
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Chers élèves, chers parents,</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Cette rentrée 2024 est une grande réussite pour <span style="font-weight:700;">EcoSup Assurance</span> et <span style="font-weight:700;">EcoSup Campus</span>. De nouvelles promotions prêtent à relever les défis, à vivre l'aventure de l'alternance et à grandir durant les mois à venir.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Les former, les accompagner, les voir s'accomplir... est notre métier, mais également notre passion. <span style="font-weight:700;">L'élève au centre de notre démarche !</span></mj-text>
-        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Nous sommes heureux et fiers d'accueillir cette nouvelle génération d'élève. Beaucoup d'entre eux ont trouvé leur contrat d'apprentissage, mais certains sont encore en recherche. <span style="font-weight:700;">Vous pouvez les aider ! comment ? En en parlant et en étant à l'écoute des opportunités !</span></mj-text>
-        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Je vous souhaite à vous tous une très bonne rentrée 2024 et je me tiens à votre disposition pour vous rencontrer !</mj-text>
-        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Bien à vous.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Bonjour à tous,</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="700" line-height="20px" color="#2D3748">Le mot d'ordre de cette rentrée 2024 ? Le partenariat ! Cette nouvelle année sera placée sous le signe de la synergie et de la collaboration. Notre ambition est claire : faire rayonner EcoSup Campus à l'échelle régionale.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Pour concrétiser cette ambition, nous multiplions les initiatives pour renforcer nos liens avec les entreprises et les acteurs de l'emploi de notre région. Vous découvrirez dans cette newsletter les fruits de nos efforts en 2024, et nous sommes convaincus que de nouvelles réussites nous attendent.</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="700" line-height="20px" color="#2D3748">C'est pour vous, élèves et futurs élèves d'EcoSup Assurance, que nous agissons tous les jours auprès des acteurs du monde du travail de notre région, afin de vous garantir une formation complète en adéquation avec les besoins de cette profession passionnante : la banque assurance !</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">À très bientôt !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
@@ -83,10 +82,11 @@
         <mj-image padding="0" fluid-on-mobile="true" border="none" width="480px" src="https://i.ibb.co/H2sgjZh/112024-A5-Assurance.jpg" alt="étudiant entrain d'exposer son projet à son tuteur"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation apprentissage</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Recruter un apprenti : la solution gagnante pour votre entreprise !</mj-text>
-        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Vous souhaitez transmettre votre savoir-faire tout en pérennisant votre activité ? <span style="font-weight:700">L'apprentissage est la réponse !</span> En recrutant un apprenti, vous bénéficiez de nombreux avantages et de soutiens financiers importants. Découvrons ensemble comment mettre en place cette collaboration gagnante.</mj-text>
-        <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/recruter-apprenti" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Baromètre annuel 2024 de l'alternance</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Le <span style="font-weight:700">Groupe IGENSIA Education</span> dévoile les résultats de son <span style="font-weight:700">baromètre annuel 2024</span>, révélant une tendance positive en faveur de l'alternance en France.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Réalisé en partenariat avec <span style="font-weight:700">Angie / Opinion Data Intelligence</span>, ce baromètre repose sur une étude d'opinion menée auprès de 1 528 répondants représentatifs de la population française.</mj-text>
+        <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/recruter-apprenti" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">À télécharger...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
@@ -154,7 +154,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px" padding-bottom="0">
       <mj-column width="30%" padding="8px">
         <mj-image padding="0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="BNI est une association dynamique d'échange d'expériences entre entrepreneurs"/>
       </mj-column>
@@ -167,9 +167,9 @@
         <mj-text padding-top="0" padding-bottom="5px" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Ouvrir de nouvelles perspectives à nos étudiants :</span> Les mettre en relation avec de futurs employeurs.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#2D3748" padding-left="17px" padding-right="17px">
+    <mj-section background-color="#cad9e7" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/gS8y4Rf/112024-A7-Assurance.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
