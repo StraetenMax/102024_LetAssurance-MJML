@@ -72,8 +72,8 @@
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation apprentissage</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Un accompagnement personnalisé pour votre réussite</mj-text>
-        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Vous êtes étudiant à EcoSup Assurance et vous cherchez votre alternance ? Nous sommes là pour vous ! Notre établissement met en place des ateliers dédiés : TRE (technique de recherche d'entreprise) pour vous aider à :</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Assurance: un accompagnement personnalisé pour votre réussite</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Vous êtes étudiant à <span style="font-weight:700">EcoSup Assurance</span> et vous cherchez votre alternance ? Nous sommes là pour vous ! Notre établissement met en place des <span style="font-weight:700">ateliers dédiés : TRE (technique de recherche d'entreprise)</span> pour vous aider à :</mj-text>
         <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Maîtriser les techniques de recherche d'emploi :</span> nous vous guiderons pour trouver les offres qui correspondent à votre profil et à vos aspirations.</mj-text>
         <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Rédiger des candidatures percutantes :</span> vous apprendrez à mettre en valeur vos compétences et à rédiger des CV et des lettres de motivation qui sortent du lot.</mj-text>
         <mj-text padding="5px 0 0 0" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Vous préparer aux entretiens d'embauche :</span> grâce à des simulations et des conseils personnalisés, vous serez prêt à affronter tous les types d'entretiens.</mj-text>
@@ -88,7 +88,7 @@
         <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Gagnez en confiance en vous :</span> nos ateliers vous donneront tous les outils nécessaires pour monter en compétence et réussir votre recherche d'alternance.</mj-text>
         <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="700">Prochain atelier</mj-text>
         <mj-social align="left" container-background-color="#EDF2F7" padding="10px" font-size="16px" line-height="20px" font-weight="600" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
-          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#684092">23 octobre 2024</span> La clef de réussite d'un entretien : la préparation</mj-social-element>
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#684092">7 novembre 2024</span> La clef de réussite d'un entretien : la préparation</mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
@@ -115,17 +115,14 @@
         <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400">Déjà partenaire d'<span style="font-weight:700">EcoSup Assurance</span> en accueillant plusieurs de nos étudiants en contrat d'apprentissage, la <span style="font-weight:700;">SMA BTP</span> s'engage auprès de nos jeunes en parrainant le <span style="font-weight:700;">"challenge Bachelors"</span> pour le mois de mars 2025. Une opportunité unique pour nos étudiants d'être accompagnés par une entreprise incontournable du monde de l'assurance.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px" padding-bottom="0">
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
         <mj-image padding="0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="BNI est une association dynamique d'échange d'expériences entre entrepreneurs"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
         <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Business Network International (BNI) : un atout majeur pour EcoSup Campus!</mj-text>
-        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Notre école est fière de faire partie du <span style="font-weight:700">groupe BNI Culture Business</span>. Avec plus de 20 000 membres en France, Belgique et Luxembourg, <span style="font-weight:700">BNI</span> est un réseau d'affaires incontournable. Cette adhésion nous offre une opportunité unique de :</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"><span style="font-weight:700">• Rayonner localement :</span> Rencontrer de nombreux acteurs économiques de notre région.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"><span style="font-weight:700">• Développer des partenariats solides :</span> Favoriser les échanges et les collaborations avec des entreprises.</mj-text>
-        <mj-text padding-top="0" padding-bottom="5px" padding-right="0" padding-left="25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"><span style="font-weight:700">• Ouvrir de nouvelles perspectives à nos étudiants :</span> Les mettre en relation avec de futurs employeurs.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Notre école est fière de faire partie du <span style="font-weight:700">groupe BNI Culture Business</span>. Avec plus de 20 000 membres en France, Belgique et Luxembourg, <span style="font-weight:700">BNI</span> est un réseau d'affaires incontournable.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#cad9e7" padding-left="17px" padding-right="17px">
@@ -139,8 +136,6 @@
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#2D3748">Jeudi 14 novembre de 7h15 à 9h</span></mj-social-element>
         </mj-social>
         <mj-text align="left" padding-top="0" padding-bottom="5px" padding-left="0" padding-right="0" font-size="16px" line-height="20px" font-weight="500" color="#2D3748">Les <span style="font-weight:700">réunions spéciales avec des invités</span> au programme sont une occasion pour élargir votre réseau professionnel.</mj-text>
-        <mj-text align="left" padding="5px 0" font-size="16px" line-height="20px" font-weight="500" color="#2D3748">Imaginez un événement où chaque poignée de main est une <span style="font-weight:700">nouvelle opportunité de business</span>, chaque conversation un <span style="font-weight:700">speed meeting potentiel</span>, et chaque échange un pas vers de <span style="font-weight:700">nouvelles rencontres enrichissantes</span>.</mj-text>
-        <mj-text align="left" padding="5px 0" font-size="16px" line-height="20px" font-weight="500" color="#2D3748">C'est l'essence même des <span style="font-weight:700">Speed Business Meetings</span>, où en peu de temps, vous pouvez rencontrer une multitude de professionnels, partager vos expériences et peut-être même, <span style="font-weight:700">nouer des partenariats durables</span>.</mj-text>
         <mj-text align="right" padding="0" font-size="16px" line-height="20px" font-weight="400"><a style="color:#BA4995;font-weight:400;" target="_blank" href="tel:0623311662">Plus d'information</a></mj-text>
       </mj-column>
     </mj-section>
@@ -194,6 +189,17 @@
         </mj-column>
         <mj-column background-color="#270938" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/C1yjm2h/diot-Assurance2024.jpg" alt="logo Diot Siaci"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column background-color="#270938" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/BsDFMtg/mesange-Assurance2024.jpg" alt="logo Mesange prevoyance"/>
+        </mj-column>
+        <mj-column background-color="#270938" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/Bf3DQ4k/sofinco-Assurance2024.jpg" alt="logo Sofinco"/>
+        </mj-column>
+        <mj-column background-color="#270938" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ts3Y7Lf/kelly-Assurance2024.jpg" alt="logo Kelly et Gi Groupe"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
